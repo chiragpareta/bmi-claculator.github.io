@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bmi-claculator/static/css/main.3beac071.css",
+    "main.js": "/bmi-claculator/static/js/main.45f8bf27.js",
+    "static/media/overweight.png": "/bmi-claculator/static/media/overweight.3189df4a13aee6e99a25.png",
+    "static/media/healthyweight.png": "/bmi-claculator/static/media/healthyweight.7f478b36ff217e429592.png",
+    "static/media/underweight.jpg": "/bmi-claculator/static/media/underweight.fca8004503364a5310ee.jpg",
+    "index.html": "/bmi-claculator/index.html",
+    "main.3beac071.css.map": "/bmi-claculator/static/css/main.3beac071.css.map",
+    "main.45f8bf27.js.map": "/bmi-claculator/static/js/main.45f8bf27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3beac071.css",
+    "static/js/main.45f8bf27.js"
+  ]
+}
